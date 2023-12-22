@@ -54,4 +54,4 @@ jobs:
           app-name: 'CCFVMS'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F612569DD38A4F62953C8C66DCB2924F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_216D8C78F9E04198A45A1BE48690B3DF }}
